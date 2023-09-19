@@ -8,3 +8,8 @@
     align-items: center;
     justify-content: center;
 }
+
+.box:hover{
+    display: none;
+    transition: linear 5s;
+}
